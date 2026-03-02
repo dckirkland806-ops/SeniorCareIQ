@@ -1,8 +1,0 @@
-{
-  "name": "seniorcareiq-functions",
-  "version": "1.0.0",
-  "description": "Netlify serverless functions for SeniorCareIQ",
-  "dependencies": {
-    "nodemailer": "^6.9.7"
-  }
-}
